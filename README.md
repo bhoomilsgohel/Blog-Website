@@ -1,4 +1,4 @@
-# Blog-Website
+# Daily-Journal-App
 A daily blog/Journal app to store your daily pieces of writing.
 Created a web app with the focus on backend. Used simple bootstrap for the fronted and NodeJS and ExpressJS along with MongoDB as the database for the backend.
 
